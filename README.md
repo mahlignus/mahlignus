@@ -1,16 +1,9 @@
-## Bem-vindo(a) ao perfil do Mahlignus
+### 👋 Olá, eu sou Rafael Mahl
 
-<div>
-  <a href="https://github.com/mahlignus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahlignus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahlignus&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
- 
- <br>
- 
-  ### Contato:
- 
-<div> 
-  <a href = "mailto:rafaelmahl@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaelmahl" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+Desenvolvedor Sênior com mais de 10 anos de experiência, focado em React, TypeScript e Node.js. Atualmente trabalho com micro frontends, BFFs com NestJS e testes com Jest, sempre buscando entregar código limpo, escalável e confiável.
+
+Gosto de entender os sistemas a fundo, colaborar com times e criar soluções que realmente funcionam. Também me interesso por Web3 e venho estudando Solidity e desenvolvimento de Smart Contracts em projetos paralelos.
+
+🔧 **Stack atual**: React • TypeScript • Next.js • Node.js • NestJS • Jest • Azure DevOps  
+🚀 **Explorando**: Web3 • Solidity • Blockchain  
+📫 **Contato**: [LinkedIn](https://www.linkedin.com/in/rafaelmahl) | [email](mailto:rafaelmahl@hotmail.com)
